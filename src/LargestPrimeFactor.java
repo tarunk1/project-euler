@@ -3,7 +3,6 @@ import java.util.List;
 
 public class LargestPrimeFactor {
 
-	// 6857
 	public static void main(String[] args) {
 		long startTime = System.currentTimeMillis();
 
